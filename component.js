@@ -1,0 +1,1 @@
+export const newArr = [12, 23, 34];
